@@ -9,10 +9,11 @@ h1 {
   color: white;
  }
 
- .comingsoon {
+ .comingsoon a {
    color: aquamarine;
    font-size: 16px;
  }
+
  h2 {
    font-size: 21px;
    color: gray;
